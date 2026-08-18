@@ -1,0 +1,68 @@
+{
+  "name": "Martin Bell",
+  "roles": [
+    "Head of Analytics Engineering",
+    "Data Engineering Manager",
+    "Data Engineer",
+    "Principal Data Analyst",
+    "Head of Data Analytics",
+    "Data Analytics Manager",
+  ],
+  "industries": [
+    "Gaming",
+    "Sports Technology",
+    "SaaS",
+    "Digital Media",
+    "E-commerce",
+    "Logistics",
+    "Operations",
+  ],
+  "skills": {
+    "leadership": [
+      "Team Leadership",
+      "Project Management",
+      "Strategic Planning",
+      "Mentorship",
+      "Stakeholder Engagement",
+      "Process Design"
+    ],
+    "technical": [
+      "Data Warehousing",
+      "ETL/ELT Processes",
+      "Data Modeling",
+      "Data Visualization",
+      "Data Governance",
+      "Cloud Platforms",
+      "Semantic Layers",
+      "Analytics Engineering",
+      "Data Pipelines",
+      "Data Quality Assurance",
+      "Data Integration",
+      "Analytics",
+      "Agile Methodologies"
+    ],
+    "Platforms & Tools": [
+      "Snowflake",
+      "dbt",
+      "SQL",
+      "Azure",
+      "AWS",
+      "GCP",
+      "Tableau",
+      "Power BI",
+      "Looker",
+      "Airflow",
+      "Python",
+      "Pandas"
+    ]
+  },
+  "management_experience": true,
+  "people_management_experience": true,
+  "years_experience": 15,
+  "links": {
+    "LinkedIn": "https://www.linkedin.com/in/martinbell",
+    "GitHub": "https://github.com/ezixi",
+    "CV": "https://www.backhandmedia.com/cv",
+    "Website": "https://www.backhandmedia.com"
+  }
+}

@@ -1,0 +1,19 @@
+repos:
+-   repo: https://github.com/psf/black
+    rev: 26.5.1
+    hooks:
+        - id: black
+-  repo: https://github.com/pycqa/flake8
+   rev: 7.3.0
+   hooks:
+        - id: flake8
+- repo: https://github.com/pycqa/isort
+  rev: 9.0.0b1
+  hooks:
+        - id: isort
+          args: ["--profile", "black"]
+
+- repo: https://github.com/jackdewinter/pymarkdown
+  rev: v0.9.39
+  hooks:
+        - id: pymarkdown
