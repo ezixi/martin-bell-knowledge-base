@@ -2,11 +2,11 @@
 type: philosophy
 title: Understanding Your Data Is In Every Employee's Job Description
 subjects:
-  - leadership
-  - analytics engineering
-  - semantic layers
-  - data governance
-  - data literacy
+- leadership
+- analytics engineering
+- semantic layers
+- data governance
+- data literacy
 ---
 
 # Understanding Your Data Is In Every Employee's Job Description

@@ -2,12 +2,12 @@
 type: philosophy
 title: Creating a Focused Data Strategy
 subjects:
-  - leadership
-  - analytics engineering
-  - semantic layers
-  - data governance
-  - data literacy
-  - data strategy
+- leadership
+- analytics engineering
+- semantic layers
+- data governance
+- data literacy
+- data strategy
 ---
 
 # Creating a Focused Data Strategy

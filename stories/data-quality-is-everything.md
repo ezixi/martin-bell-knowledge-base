@@ -2,11 +2,11 @@
 type: philosophy
 title: Data Quality Is Paramount
 subjects:
-  - leadership
-  - analytics engineering
-  - data quality
-  - data engineering
-  - data governance
+- leadership
+- analytics engineering
+- data quality
+- data engineering
+- data governance
 ---
 
 # Data Quality Is Paramount
