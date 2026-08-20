@@ -48,7 +48,7 @@ projects described elsewhere in this repository.
 **Role:** Vice President Data Analytics  
 **Recommendation:** June 2022
 
-> I hired Martin into our team as a Lead Data Engineer. As soon as Martin came
+> I hired Martin into our team as a Data Engineering Lead. As soon as Martin came
 > in he completely transformed how we managed our data as well as how we
 > processed the data we collected. This led to us being a much more efficient
 > and well documented team which comes along with its obvious benefits.

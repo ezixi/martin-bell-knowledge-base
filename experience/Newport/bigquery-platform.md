@@ -2,7 +2,7 @@
 type: project
 title: Data Warehouse Modernisation
 company: Newport Takkt
-role: Lead Data Engineer
+role: Data Engineering Lead
 domain:
   - Data Engineering
   - Analytics Engineering

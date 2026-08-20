@@ -1,7 +1,7 @@
 ---
 type: experience
 company: Newport Takkt
-role: Lead Data Engineer
+role: Data Engineering Lead
 start: 2020-09
 end: 2022-02
 
@@ -35,7 +35,7 @@ related:
 
 ## Summary
 
-As Lead Data Engineer, I was responsible for designing and delivering a modern analytics platform that unified reporting across seven independent e-commerce businesses. Working closely with analysts and business stakeholders, I transformed fragmented reporting processes into a scalable cloud-based analytics environment that enabled consistent decision making across the organisation.
+As Data Engineering Lead, I was responsible for designing and delivering a modern analytics platform that unified reporting across seven independent e-commerce businesses. Working closely with analysts and business stakeholders, I transformed fragmented reporting processes into a scalable cloud-based analytics environment that enabled consistent decision making across the organisation.
 
 This role marked a transition from primarily delivering technical solutions to shaping analytics architecture, engineering standards, and cross-functional collaboration.
 

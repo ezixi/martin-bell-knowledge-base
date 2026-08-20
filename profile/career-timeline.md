@@ -64,7 +64,7 @@ to hours.
 * Hired, mentored and developed talent across all levels — from junior analysts to principal engineers — fostering a collaborative and learning-focused
 culture.
 
-### Lead Data Engineer
+### Data Engineering Lead
 
 **Newport Takkt, Remote** | Sep 2020 – Feb 2022
 
