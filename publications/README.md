@@ -5,6 +5,7 @@ Selected long-form and technical writing covering analytics strategy, product an
 ## Analytics & Product Strategy
 
 - [The Smart App](./the-smart-app.md) — comprehensive mobile analytics guide commissioned by ArcTouch.
+- [The Tsundoku Support Club](./the-tsundoku-support-club.md) — behavioural analysis of how Safari Books Online members used their reading queues.
 - [How to Use Mobile Analytics to Drive Your App Strategy](./mobile-analytics-app-strategy.md)
 - [What's My Mobile App ROI?](./mobile-app-roi.md)
 - [Predictive, Prescriptive and Descriptive Analytics for Apps](./descriptive-predictive-prescriptive-analytics.md)
