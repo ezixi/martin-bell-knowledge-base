@@ -215,7 +215,7 @@ projects described elsewhere in this repository.
 
 - Independent recognition of early digital and content work.
 
-## Cross-reference themesga
+## Cross-reference themes
 
 ### Leadership
 
