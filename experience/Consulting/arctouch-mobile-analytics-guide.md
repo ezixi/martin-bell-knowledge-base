@@ -24,6 +24,7 @@ skills:
 related_docs:
   - ../../philosophy/analytics.md
   - ../../philosophy/data-strategy.md
+  - ../../publications/the-smart-app.md
 ---
 
 # The Smart App: Mobile Analytics Content Strategy
