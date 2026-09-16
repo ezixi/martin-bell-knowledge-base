@@ -91,7 +91,7 @@ If you are interested in how I think about data rather than a particular role, s
 
 ## Experience
 
-The [`experience/`](./experience/) directory contains role overviews and individual project case studies.
+The [`experience/`](./experience/) directory contains role overviews and individual project case studies. [`experience/framework.md`](./experience/framework.md) provides the reusable role and project-documentation framework for recording current and future experience.
 
 Each project is intended to answer questions such as:
 
